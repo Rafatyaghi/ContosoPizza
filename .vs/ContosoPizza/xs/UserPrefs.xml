@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{E930AF38-E05A-4D01-9532-B563D289721F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContosoPizza PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoPizza/Properties/launchSettings.json">
+    <Files>
+      <File FileName="ContosoPizza/Program.cs" Line="16" Column="1" />
+      <File FileName="ContosoPizza/WeatherForecast.cs" />
+      <File FileName="ContosoPizza/Startup.cs" />
+      <File FileName="ContosoPizza/Controllers/WeatherForecastController.cs" />
+      <File FileName="ContosoPizza/Properties/launchSettings.json" Line="24" Column="72" />
+      <File FileName="ContosoPizza/Models/Pizza.cs" />
+      <File FileName="ContosoPizza/Services/PizzaService.cs" />
+      <File FileName="ContosoPizza/Controllers/PizzaController.cs" />
+      <File FileName="ContosoPizza/appsettings.json" />
+      <File FileName="ContosoPizza/appsettings.Development.json" />
+      <File FileName="ContosoPizza/ContosoPizza.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ContosoPizza" expanded="True">
+            <Node name="ContosoPizza" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
